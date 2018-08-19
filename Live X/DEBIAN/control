@@ -1,0 +1,10 @@
+Architecture: iphoneos-arm
+Name: Live X
+Package: com.peterdev.livex
+Version: 1.0
+Author: PeterDev <djperter@icloud.com>
+Maintainer: PeterDev <djperter@icloud.com>
+Depends: firmware (>= 9.0), mobilesubstrate
+Description: 3D Touch가 있는 기기(iPhone X 제외) 아이폰 X 배경화면을 추가시켜줍니다.
+Depiction: https://peterprd.github.io/nightly/depictions/?p=com.peterdev.livex
+Section: Tweaks
